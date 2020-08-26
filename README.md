@@ -35,4 +35,4 @@ Veuillez suivre les indications suivantes :
 1) Télécharger le fichier compressé 'Buur Siin'
 2) Dezipper le fichier dans ../wamp/www/
 3) Ouvrir votre navigateur(Chrome, Edge, Firefox, etc.)
-4) Sur la barre de navigation taper l'adresse localhost:n° port/BuurSiin
+4) Sur la barre de navigation taper l'adresse localhost:n°_port/BuurSiin

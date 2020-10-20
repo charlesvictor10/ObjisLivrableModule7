@@ -2,7 +2,8 @@
 ************************************
 *****  	Description de l'application:   	*****
 	***********************************
- Buur Siin est une application qui parle d'un artiste et qui présente les productions de cet artiste.
+ 
+Buur Siin est une application qui parle d'un artiste et qui présente les productions de cet artiste.
 Cette application nous permet de comprendre les points suivants:
 - Initiation protocole http
 - Initiation HTML5
@@ -14,6 +15,7 @@ Cette application nous permet de comprendre les points suivants:
  ************************************
 *****  	     Pré-requis avant execution		*****
 	************************************
+	
 Installer  un serveur d'application (wamp, xamp, easePhp, etc.)
 
 - Rendez-vous au site https://www.wampserver.com/
@@ -31,6 +33,7 @@ Installer  un serveur d'application (wamp, xamp, easePhp, etc.)
 ************************************
 *****  	     Execution		*****
 	************************************
+	
 Veuillez suivre les indications suivantes :
 1) Télécharger le fichier compressé 'Buur Siin'
 2) Dezipper le fichier dans ../wamp/www/
